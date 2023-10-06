@@ -1,0 +1,56 @@
+form {
+    max-width: 40rem;
+    margin: 0 auto;
+    padding: 1.5rem 2rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 6px 40px rgba(0, 0, 0, 0.15);
+    background-color: aliceblue
+}
+.card{
+    display: flex;
+    -ms-flex-align: left;
+    border-color: rgb(141, 237, 100);
+    margin-left: 43px;
+    border-radius: 3px;
+    justify-content: center;
+    padding: 12px 12px 12px 12px;
+    margin: 20px 20px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+    background-color: aqua;
+}
+#cont{
+    display: flex;
+    margin-right:auto;
+}
+.vx{
+    display: block;
+    width: 50px;
+  height: 40px;
+  margin-right: 12px;
+}
+.fd{
+    display: flex;
+    margin-left: 242px;
+    margin-top: 12px;
+}
+.card{
+    background-color: aliceblue;
+}
+body{
+    background-image: url("https://www.freecodecamp.org/news/content/images/size/w2000/2022/09/jonatan-pie-3l3RwQdHRHg-unsplash.jpg");
+}
+.card-img, .card-img-top{
+    width: auto !important;
+    height: auto;
+    
+}
+.date{
+    color:greenyellow
+}
+.btn.btn-dark.new {
+    color: #7ffff3;
+    margin-left: 174px;
+    height: 54px;
+    width: 84px;
+}
